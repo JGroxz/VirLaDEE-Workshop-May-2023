@@ -465,7 +465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2501612182926297043, guid: e68169dcf0ee2474ea83694c347f8437, type: 3}
       propertyPath: _prefabHash
-      value: 1539498841
+      value: -2005375521
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1163087624431890344, guid: e68169dcf0ee2474ea83694c347f8437, type: 3}
