@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -182,6 +182,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 1797071315
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (7)
@@ -286,6 +290,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 3130200744
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (2)
@@ -393,6 +401,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 2916280145
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (1)
@@ -1131,6 +1143,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 197325172
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (3)
@@ -1197,6 +1213,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 3519649897
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (9)
@@ -1268,6 +1288,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 2550159008
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (5)
@@ -1461,6 +1485,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 1498252002
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (6)
@@ -1522,6 +1550,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 3193715413
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (4)
@@ -1583,6 +1615,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 1975225852
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin (8)
@@ -1956,7 +1992,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2137902393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2048,6 +2084,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 324682567}
     m_Modifications:
+    - target: {fileID: 3872832114941299014, guid: 5838171a034b0d34b8201f0529309643, type: 3}
+      propertyPath: _sceneId
+      value: 3942421621
+      objectReference: {fileID: 0}
     - target: {fileID: 3895614878625956044, guid: 5838171a034b0d34b8201f0529309643, type: 3}
       propertyPath: m_Name
       value: Coin
