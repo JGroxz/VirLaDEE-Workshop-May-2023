@@ -440,6 +440,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 163d903d021d24538956e8964c45737b, type: 3}
+--- !u!114 &383261086 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5137957532329369550, guid: 163d903d021d24538956e8964c45737b, type: 3}
+  m_PrefabInstance: {fileID: 383261085}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c8c3abc03654a2cac7566d7785fdd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &405705103
 GameObject:
   m_ObjectHideFlags: 0
@@ -1937,6 +1948,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b7f46489274740a0a33c303ee17c5f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinCollector: {fileID: 0}
+  coinCollector: {fileID: 383261086}
   scoreText: {fileID: 953834919}
   completionText: {fileID: 1417911988}
