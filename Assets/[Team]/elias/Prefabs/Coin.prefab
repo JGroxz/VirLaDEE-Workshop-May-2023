@@ -55,12 +55,10 @@ MonoBehaviour:
     SendPosition: 1
     SendRotation: 1
     SendScale: 1
-    SendName: 0
-    SendActive: 2
   _sceneId: 0
   ServerObjectManager: {fileID: 0}
   ClientObjectManager: {fileID: 0}
-  _prefabHash: -825754228
+  _prefabHash: -1841592367
   _onStartServer:
     _event:
       m_PersistentCalls:
@@ -102,11 +100,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f74aedd71d9a4f55b3ce499326d45fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SyncSettings:
-    From: 2
-    To: 3
-    Timing: 0
-    Interval: 0.1
+  syncMode: 0
+  syncInterval: 0.1
   ClientAuthority: 1
   LocalPositionSensitivity: 0.01
   LocalRotationSensitivity: 0.01
