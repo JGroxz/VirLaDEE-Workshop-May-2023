@@ -8155,7 +8155,7 @@ GameObject:
   - component: {fileID: 1217049096}
   - component: {fileID: 1217049095}
   - component: {fileID: 1217049094}
-  - component: {fileID: 1217049093}
+  - component: {fileID: 1217049097}
   m_Layer: 0
   m_Name: Cylinder
   m_TagString: Untagged
@@ -8163,20 +8163,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!136 &1217049093
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1217049092}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
 --- !u!23 &1217049094
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8242,6 +8228,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &1217049097
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1217049092}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1221595584
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15513,6 +15513,10 @@ PrefabInstance:
       propertyPath: _sceneId
       value: 2816851683
       objectReference: {fileID: 0}
+    - target: {fileID: 3793459897571922753, guid: 4250a160257c84e98bdf603cf9705334, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.000061035156
+      objectReference: {fileID: 0}
     - target: {fileID: 4004439795423791641, guid: 4250a160257c84e98bdf603cf9705334, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -15564,6 +15568,14 @@ PrefabInstance:
     - target: {fileID: 4004439797338681496, guid: 4250a160257c84e98bdf603cf9705334, type: 3}
       propertyPath: _sceneId
       value: 1919112289
+      objectReference: {fileID: 0}
+    - target: {fileID: 4869433810768484545, guid: 4250a160257c84e98bdf603cf9705334, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4869433810768484545, guid: 4250a160257c84e98bdf603cf9705334, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7
       objectReference: {fileID: 0}
     - target: {fileID: 4869433810768484559, guid: 4250a160257c84e98bdf603cf9705334, type: 3}
       propertyPath: _sceneId
