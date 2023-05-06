@@ -457,7 +457,7 @@ MonoBehaviour:
   _sceneId: 0
   ServerObjectManager: {fileID: 0}
   ClientObjectManager: {fileID: 0}
-  _prefabHash: -652883184
+  _prefabHash: -134620949
   _onStartServer:
     _event:
       m_PersistentCalls:
@@ -584,7 +584,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3577035011973801609, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
       propertyPath: _prefabHash
-      value: -652883184
+      value: -134620949
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
@@ -654,7 +654,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8358984953733207339, guid: 4966324abb86a9b45913a8cd80762130, type: 3}
       propertyPath: _prefabHash
-      value: -652883184
+      value: -134620949
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4966324abb86a9b45913a8cd80762130, type: 3}
