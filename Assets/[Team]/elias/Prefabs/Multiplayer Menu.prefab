@@ -48,12 +48,10 @@ MonoBehaviour:
     SendPosition: 1
     SendRotation: 1
     SendScale: 1
-    SendName: 0
-    SendActive: 2
   _sceneId: 0
   ServerObjectManager: {fileID: 0}
   ClientObjectManager: {fileID: 0}
-  _prefabHash: 389232792
+  _prefabHash: 821592925
   _onStartServer:
     _event:
       m_PersistentCalls:
