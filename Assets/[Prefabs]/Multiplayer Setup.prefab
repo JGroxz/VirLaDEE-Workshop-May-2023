@@ -457,7 +457,7 @@ MonoBehaviour:
   _sceneId: 0
   ServerObjectManager: {fileID: 0}
   ClientObjectManager: {fileID: 0}
-  _prefabHash: -652883184
+  _prefabHash: 2047237654
   _onStartServer:
     _event:
       m_PersistentCalls:
@@ -510,6 +510,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4004439795423791641}
     m_Modifications:
+    - target: {fileID: 231851177781796951, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
+      propertyPath: m_Pivot.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 231851177781796951, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
+      propertyPath: m_Pivot.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 231851177781796951, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 231851177781796951, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 231851177781796951, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.000030517578
+      objectReference: {fileID: 0}
+    - target: {fileID: 231851177781796951, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2918023233497704618, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
       propertyPath: m_Name
       value: Network
@@ -584,7 +608,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3577035011973801609, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
       propertyPath: _prefabHash
-      value: -652883184
+      value: 2047237654
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1f75b9b0f2038c43819c40c4d53c890, type: 3}
@@ -654,7 +678,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8358984953733207339, guid: 4966324abb86a9b45913a8cd80762130, type: 3}
       propertyPath: _prefabHash
-      value: -652883184
+      value: 2047237654
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4966324abb86a9b45913a8cd80762130, type: 3}
